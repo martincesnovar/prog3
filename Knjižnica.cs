@@ -79,15 +79,14 @@ namespace Knjižnica
         /// <returns>bool true false</returns>
         static bool In(int n, int[] tab)
         {
-            bool vrednost = true;
             for (int i = 0; i < tab.Length; i++)
             {
                 if (tab[i] == n)
                 {
-                    vrednost = false;
+                    return false;
                 }
             }
-            return vrednost;
+            return true;
         }
 
         /// <summary>
