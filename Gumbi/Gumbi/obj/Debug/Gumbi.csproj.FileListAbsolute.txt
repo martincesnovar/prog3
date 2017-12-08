@@ -1,0 +1,10 @@
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\bin\Debug\Gumbi.exe.config
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\bin\Debug\Gumbi.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\bin\Debug\Gumbi.pdb
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.csprojResolveAssemblyReference.cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.Form1.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.Properties.Resources.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.csproj.GenerateResource.Cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.csproj.CoreCompileInputs.cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Gumbi\obj\Debug\Gumbi.pdb

@@ -1,0 +1,9 @@
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\bin\Debug\Ura.exe.config
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\bin\Debug\Ura.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\bin\Debug\Ura.pdb
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.Form1.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.Properties.Resources.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.csproj.GenerateResource.Cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.csproj.CoreCompileInputs.cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Ura\obj\Debug\Ura.pdb

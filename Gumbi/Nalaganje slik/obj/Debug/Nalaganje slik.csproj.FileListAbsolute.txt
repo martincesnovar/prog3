@@ -1,0 +1,9 @@
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\bin\Debug\Nalaganje slik.exe.config
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\bin\Debug\Nalaganje slik.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\bin\Debug\Nalaganje slik.pdb
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje_slik.Form1.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje_slik.Properties.Resources.resources
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje slik.csproj.GenerateResource.Cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje slik.csproj.CoreCompileInputs.cache
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje slik.exe
+C:\Users\CesnovarM13\source\repos\Gumbi\Nalaganje slik\obj\Debug\Nalaganje slik.pdb
