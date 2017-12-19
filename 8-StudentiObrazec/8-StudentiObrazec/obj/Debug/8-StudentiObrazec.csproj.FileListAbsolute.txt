@@ -1,0 +1,9 @@
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\bin\Debug\8-StudentiObrazec.exe.config
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\bin\Debug\8-StudentiObrazec.exe
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\bin\Debug\8-StudentiObrazec.pdb
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\_8_StudentiObrazec.Form1.resources
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\_8_StudentiObrazec.Properties.Resources.resources
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\8-StudentiObrazec.csproj.GenerateResource.Cache
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\8-StudentiObrazec.csproj.CoreCompileInputs.cache
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\8-StudentiObrazec.exe
+U:\C-Sharp\8-StudentiObrazec\8-StudentiObrazec\obj\Debug\8-StudentiObrazec.pdb
