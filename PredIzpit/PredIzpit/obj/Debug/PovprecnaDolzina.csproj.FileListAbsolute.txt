@@ -1,0 +1,6 @@
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\bin\Debug\PredIzpit.exe
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\bin\Debug\PredIzpit.pdb
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\obj\Debug\PovprecnaDolzina.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\obj\Debug\PovprecnaDolzina.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\obj\Debug\PredIzpit.exe
+C:\Users\Uporabnik\source\repos\PredIzpit\PredIzpit\obj\Debug\PredIzpit.pdb
