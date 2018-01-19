@@ -4,3 +4,9 @@ C:\Users\Uporabnik\source\repos\PredIzpit\Vozilo\obj\Debug\Vozilo.csprojResolveA
 C:\Users\Uporabnik\source\repos\PredIzpit\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
 C:\Users\Uporabnik\source\repos\PredIzpit\Vozilo\obj\Debug\Vozilo.exe
 C:\Users\Uporabnik\source\repos\PredIzpit\Vozilo\obj\Debug\Vozilo.pdb
+U:\prog3\PredIzpit\Vozilo\bin\Debug\Vozilo.exe
+U:\prog3\PredIzpit\Vozilo\bin\Debug\Vozilo.pdb
+U:\prog3\PredIzpit\Vozilo\obj\Debug\Vozilo.csprojResolveAssemblyReference.cache
+U:\prog3\PredIzpit\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
+U:\prog3\PredIzpit\Vozilo\obj\Debug\Vozilo.exe
+U:\prog3\PredIzpit\Vozilo\obj\Debug\Vozilo.pdb

@@ -1,0 +1,10 @@
+U:\prog3\PredIzpit\Grafika\bin\Debug\Grafika.exe.config
+U:\prog3\PredIzpit\Grafika\bin\Debug\Grafika.exe
+U:\prog3\PredIzpit\Grafika\bin\Debug\Grafika.pdb
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.csprojResolveAssemblyReference.cache
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.Form1.resources
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.Properties.Resources.resources
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.csproj.GenerateResource.Cache
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.csproj.CoreCompileInputs.cache
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.exe
+U:\prog3\PredIzpit\Grafika\obj\Debug\Grafika.pdb

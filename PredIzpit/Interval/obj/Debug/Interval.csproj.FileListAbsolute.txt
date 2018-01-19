@@ -1,0 +1,7 @@
+U:\prog3\PredIzpit\Interval\bin\Debug\Interval.exe.config
+U:\prog3\PredIzpit\Interval\bin\Debug\Interval.exe
+U:\prog3\PredIzpit\Interval\bin\Debug\Interval.pdb
+U:\prog3\PredIzpit\Interval\obj\Debug\Interval.csprojResolveAssemblyReference.cache
+U:\prog3\PredIzpit\Interval\obj\Debug\Interval.csproj.CoreCompileInputs.cache
+U:\prog3\PredIzpit\Interval\obj\Debug\Interval.exe
+U:\prog3\PredIzpit\Interval\obj\Debug\Interval.pdb
