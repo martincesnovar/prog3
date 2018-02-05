@@ -11,12 +11,20 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int[] sez = new int[] { 1, 2, 3, 4 };
+            int[] sez1 = new int[] { 4, 2, 1, 5, 4 };
             Obrni_tabelo(sez);
+            Obrni(ref sez1);
             for(int i = 0; i < sez.Length-1; i++)
             {
                 Console.Write(sez[i]+", ");
             }
             Console.Write(sez[sez.Length - 1] + " ");
+            
+            for(int i = 0; i < sez1.Length-1; i++)
+            {
+                Console.Write(sez1[i]+", ");
+            }
+            Console.Write(sez1[sez1.Length - 1] + " ");
         }
         /// <summary>
         /// Obrne tabelo
@@ -34,6 +42,10 @@ namespace ConsoleApp1
             {
                 sez[sez.Length - i - 1] = zacasna[i];
             }
+        }
+        static void Obrni<T>(ref T[] sez)
+        {
+        	Array.Reverse(sez);
         }
     }
 }
