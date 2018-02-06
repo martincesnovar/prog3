@@ -57,14 +57,14 @@ namespace ConsoleApp1
         static void Obrni_s_skladom<T>(T[] sez)
         {
         	int i = 0;
-        	Stack s = new Stack();
+        	Stack<T> s = new Stack<T>();
         	foreach( T el in sez)
         	{
         		s.Push(el);
         	}
         	while (s.Count>0)
         	{
-        		sez[i] = (T)s.Pop();
+        		sez[i] = s.Pop();
         		i++;
         	}
         }
