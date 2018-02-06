@@ -12,19 +12,26 @@ namespace ConsoleApp1
         {
             int[] sez = new int[] { 1, 2, 3, 4 };
             int[] sez1 = new int[] { 4, 2, 1, 5, 4 };
+            int[] sez2 = new int[] { 3, 2, 1, 5, 4 };
             Obrni_tabelo(sez);
             Obrni(ref sez1);
+            Obrni_s_skladom(sez2);
             for(int i = 0; i < sez.Length-1; i++)
             {
                 Console.Write(sez[i]+", ");
             }
-            Console.Write(sez[sez.Length - 1] + " ");
+            Console.WriteLine(sez[sez.Length - 1] + " ");
             
             for(int i = 0; i < sez1.Length-1; i++)
             {
                 Console.Write(sez1[i]+", ");
             }
-            Console.Write(sez1[sez1.Length - 1] + " ");
+            Console.WriteLine(sez1[sez1.Length - 1] + " ");
+            for(int i = 0; i < sez2.Length-1; i++)
+            {
+                Console.Write(sez2[i]+", ");
+            }
+			Console.WriteLine(sez2[sez2.Length - 1]);
         }
         /// <summary>
         /// Obrne tabelo
@@ -46,6 +53,20 @@ namespace ConsoleApp1
         static void Obrni<T>(ref T[] sez)
         {
         	Array.Reverse(sez);
+        }
+        static void Obrni_s_skladom<T>(T[] sez)
+        {
+        	int i = 0;
+        	Stack s = new Stack();
+        	foreach( T el in sez)
+        	{
+        		s.Push(el);
+        	}
+        	while (s.Count>0)
+        	{
+        		sez[i] = (T)s.Pop();
+        		i++;
+        	}
         }
     }
 }
