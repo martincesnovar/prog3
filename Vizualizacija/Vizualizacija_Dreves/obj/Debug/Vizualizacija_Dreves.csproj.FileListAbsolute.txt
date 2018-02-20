@@ -1,0 +1,9 @@
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\bin\Debug\Vizualizacija_Dreves.exe
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\bin\Debug\Vizualizacija_Dreves.pdb
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.Form1.resources
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.Properties.Resources.resources
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.csproj.GenerateResource.Cache
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.exe
+C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija_Dreves\obj\Debug\Vizualizacija_Dreves.pdb
