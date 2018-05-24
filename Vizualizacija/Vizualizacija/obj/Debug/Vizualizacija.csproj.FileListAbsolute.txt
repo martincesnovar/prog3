@@ -1,9 +1,0 @@
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\bin\Debug\Vizualizacija.exe
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\bin\Debug\Vizualizacija.pdb
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.csprojResolveAssemblyReference.cache
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.Form1.resources
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.Properties.Resources.resources
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.csproj.GenerateResource.Cache
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.csproj.CoreCompileInputs.cache
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.exe
-C:\Users\Uporabnik\source\repos\Vizualizacija\Vizualizacija\obj\Debug\Vizualizacija.pdb
